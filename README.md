@@ -18,7 +18,7 @@ train_cnn_hub.ipynb
 feature_extract_hub.ipynb
 predict_consumption.ipynb
 ```
-**P.S. Ensure that the data folder is present in the base directory. **
+**P.S. Ensure that the data folder is present in the base directory.**
 
 
 
